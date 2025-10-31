@@ -1,3 +1,3 @@
 # Rock-Paper-Scissors
 Game
- https://codedbytriloki.github.io/PIN-Code-Input-/
+ https://codedbytriloki.github.io/Rock-Paper-Scissors/
